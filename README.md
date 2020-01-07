@@ -1,2 +1,3 @@
-# svelte-jupyter-kernel-gateway
-Example of connecting from Svelte to Jupyter Kernel Gateway
+# README
+
+- Based on https://github.com/sveltejs/template
